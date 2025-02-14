@@ -8,4 +8,4 @@
 - ❓⛰️ `/where`: [Fresno - Tolima](https://www.tolima.gov.co/tolima/informacion-general/turismo/2028-municipio-de-fresno)
 - 💻 `/public/project`: [Generador de nombres aleatorios](https://random-names-srm.onrender.com/)
 - 🏛️ `/university/project`: [Proyecto final - Semestre 2 - API TA](https://srm-ta.onrender.com/)
-- 📫 `/API/university`: [API - Hagan lo que quieran :)](https://clinical-jasmin-trg-37067c2d.koyeb.app/) [¿CÓMO USAR?](https://github.com/tutosrivegamerLQ/transportadora-andina)
+- 📫 `/API/university`: [API - Hagan lo que quieran :)](https://permanent-brittni-trg-d0f0aa2b.koyeb.app) [¿CÓMO USAR?](https://github.com/tutosrivegamerLQ/transportadora-andina)
