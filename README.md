@@ -14,5 +14,5 @@
 
 ---
 
-`chromologger`: [pip install chromologger](https://pypi.org/project/chromologger)
 <a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a>
+`chromologger`: [pip install chromologger](https://pypi.org/project/chromologger)
