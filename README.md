@@ -14,3 +14,4 @@
 
 ---
 
+`chromologger`: [pip install chromologger](https://pypi.org/project/chromologger]
