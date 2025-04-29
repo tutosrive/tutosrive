@@ -14,10 +14,10 @@
 
 ---
 
-| downloads | command | project |
-| --------- | ------- | ------- |
-| <a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a> | [pip install chromologger](https://pypi.org/project/chromologger) | [chromologger](https://github.com/tutosrive/chromologger) |
-| <a href="https://pepy.tech/projects/chromolog"><img src="https://static.pepy.tech/badge/chromolog" alt="PyPI Downloads"></a> | [pip install chromolog](https://pypi.org/project/chromolog) | [chromolog](https://github.com/tutosrive/chromolog) |
-| <a href="https://pepy.tech/projects/sqlazo"><img src="https://static.pepy.tech/badge/sqlazo" alt="PyPI Downloads"></a> | [pip install sqlazo](https://pypi.org/project/sqlazo) | [sqlazo](https://github.com/tutosrive/sqlazo) |
-| <a href="https://pepy.tech/projects/pdf2wordx"><img src="https://static.pepy.tech/badge/pdf2wordx" alt="PyPI Downloads"></a> | [pip install pdf2wordx](https://pypi.org/project/pdf2wordx) | [pdf2wordx](https://github.com/tutosrive/pdf2wordx) |
-| <a href="https://pepy.tech/projects/effect-srm"><img src="https://static.pepy.tech/badge/effect-srm" alt="PyPI Downloads"></a> | [pip install effect-srm](https://pypi.org/project/effect-srm) | [effect-srm](https://github.com/tutosrive/effect-screen-recorder-master) |
+| project | command | downloads |
+| ------- | ------- | -------- |
+| [chromologger](https://github.com/tutosrive/chromologger) | `pip install chromologger` | <a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a> |
+| [chromolog](https://github.com/tutosrive/chromolog) | `pip install chromolog` | <a href="https://pepy.tech/projects/chromolog"><img src="https://static.pepy.tech/badge/chromolog" alt="PyPI Downloads"></a> |
+| [sqlazo](https://github.com/tutosrive/sqlazo) | `pip install sqlazo` | <a href="https://pepy.tech/projects/sqlazo"><img src="https://static.pepy.tech/badge/sqlazo" alt="PyPI Downloads"></a> |
+| [pdf2wordx](https://github.com/tutosrive/pdf2wordx) | `pip install pdf2wordx` | <a href="https://pepy.tech/projects/pdf2wordx"><img src="https://static.pepy.tech/badge/pdf2wordx" alt="PyPI Downloads"></a> |
+| [effect-srm](https://github.com/tutosrive/effect-screen-recorder-master) | `pip install effect-srm` | <a href="https://pepy.tech/projects/effect-srm"><img src="https://static.pepy.tech/badge/effect-srm" alt="PyPI Downloads"></a> |
