@@ -16,4 +16,4 @@
 
 | downloads | command | project |
 | --------- | ------- | ------- |
-| <a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a> | `chromologger`: [pip install chromologger](https://pypi.org/project/chromologger) | [chromologger](https://github.com/tutosrive/chromologger) |
+| <a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a> | [pip install chromologger](https://pypi.org/project/chromologger) | [chromologger](https://github.com/tutosrive/chromologger) |
