@@ -17,3 +17,6 @@
 | downloads | command | project |
 | --------- | ------- | ------- |
 | <a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a> | [pip install chromologger](https://pypi.org/project/chromologger) | [chromologger](https://github.com/tutosrive/chromologger) |
+| <a href="https://pepy.tech/projects/chromolog"><img src="https://static.pepy.tech/badge/chromolog" alt="PyPI Downloads"></a> | [pip install chromolog](https://pypi.org/project/chromolog) | [chromolog](https://github.com/tutosrive/chromolog) |
+| <a href="https://pepy.tech/projects/sqlazo"><img src="https://static.pepy.tech/badge/sqlazo" alt="PyPI Downloads"></a> | [pip install sqlazo](https://pypi.org/project/sqlazo) | [sqlazo](https://github.com/tutosrive/sqlazo) |
+| <a href="https://pepy.tech/projects/pdf2wordx"><img src="https://static.pepy.tech/badge/pdf2wordx" alt="PyPI Downloads"></a> | [pip install pdf2wordx](https://pypi.org/project/pdf2wordx) | [pdf2wordx](https://github.com/tutosrive/pdf2wordx) |
