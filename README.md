@@ -69,10 +69,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tutosrive/tutosrive/output/snake.svg" alt="Snake animation" />
-
+<br clear="both" />
 
 ###
 
