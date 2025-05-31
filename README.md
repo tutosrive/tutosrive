@@ -2,7 +2,7 @@
 
 # New project (a converter), coming soon...
 
-> Currently working on: <a href="https://www.dev2forge.software/">Dev2Forge <sub>org</sub></a>
+> Currently "working" on: <a href="https://www.dev2forge.software/">Dev2Forge <sub>org</sub></a>
 
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px 0; gap: 10px; max-height: 48px; height: 48px;">
   <a href="https://github.com/sponsors/tutosrive" target="_blank">
