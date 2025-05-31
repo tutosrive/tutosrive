@@ -1,6 +1,8 @@
-<!-- # New project (a converter), coming soon...
+<h2 align="center">Hi! i'm Santiago, and i ♥ writing code.</h2>
 
-> [Dev2Forge](https://www.dev2forge.software/)
+# New project (a converter), coming soon...
+
+> Currently working on: <a href="https://www.dev2forge.software/">Dev2Forge <sub>org</sub></a>
 
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px 0; gap: 10px; max-height: 48px; height: 48px;">
   <a href="https://github.com/sponsors/tutosrive" target="_blank">
@@ -16,15 +18,6 @@
 
 ---
 
-| project | command | downloads |
-| ------- | ------- | -------- |
-| [chromologger](https://github.com/tutosrive/chromologger) | `pip install chromologger` | <a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a> |
-| [chromolog](https://github.com/tutosrive/chromolog) | `pip install chromolog` | <a href="https://pepy.tech/projects/chromolog"><img src="https://static.pepy.tech/badge/chromolog" alt="PyPI Downloads"></a> |
-| [sqlazo](https://github.com/tutosrive/sqlazo) | `pip install sqlazo` | <a href="https://pepy.tech/projects/sqlazo"><img src="https://static.pepy.tech/badge/sqlazo" alt="PyPI Downloads"></a> |
-| [pdf2wordx](https://github.com/tutosrive/pdf2wordx) | `pip install pdf2wordx` | <a href="https://pepy.tech/projects/pdf2wordx"><img src="https://static.pepy.tech/badge/pdf2wordx" alt="PyPI Downloads"></a> |
-| [effect-srm](https://github.com/tutosrive/effect-screen-recorder-master) | `pip install effect-srm` | <a href="https://pepy.tech/projects/effect-srm"><img src="https://static.pepy.tech/badge/effect-srm" alt="PyPI Downloads"></a> | -->
-
-<h2 align="center">Hi! i'm Santiago, and i ♥ writing code.</h2>
 
 ###
 
@@ -80,11 +73,6 @@
 
 <img src="https://raw.githubusercontent.com/tutosrive/tutosrive/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tutosrive/count.svg?" />
-</div>
 
 ###
 
@@ -95,3 +83,17 @@
 </picture>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tutosrive/count.svg?" />
+</div>
+
+###
+
+| project | command | downloads |
+| ------- | ------- | -------- |
+| [chromologger](https://github.com/tutosrive/chromologger) | `pip install chromologger` | <a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a> |
+| [chromolog](https://github.com/tutosrive/chromolog) | `pip install chromolog` | <a href="https://pepy.tech/projects/chromolog"><img src="https://static.pepy.tech/badge/chromolog" alt="PyPI Downloads"></a> |
+| [sqlazo](https://github.com/tutosrive/sqlazo) | `pip install sqlazo` | <a href="https://pepy.tech/projects/sqlazo"><img src="https://static.pepy.tech/badge/sqlazo" alt="PyPI Downloads"></a> |
+| [pdf2wordx](https://github.com/tutosrive/pdf2wordx) | `pip install pdf2wordx` | <a href="https://pepy.tech/projects/pdf2wordx"><img src="https://static.pepy.tech/badge/pdf2wordx" alt="PyPI Downloads"></a> |
+| [effect-srm](https://github.com/tutosrive/effect-screen-recorder-master) | `pip install effect-srm` | <a href="https://pepy.tech/projects/effect-srm"><img src="https://static.pepy.tech/badge/effect-srm" alt="PyPI Downloads"></a> |
