@@ -2,7 +2,7 @@
 
 # New project (a converter), coming soon...
 
-> Currently "working" on: <a href="https://www.dev2forge.software/">Dev2Forge <sub>org</sub></a>
+> Currently working on: <a href="https://www.dev2forge.software/">Dev2Forge <sub>org</sub></a>
 
 <div style="display: flex; align-items: center; justify-content: center; margin: 10px 0; gap: 10px; max-height: 48px; height: 48px;">
   <a href="https://github.com/sponsors/tutosrive" target="_blank">
@@ -18,7 +18,6 @@
 
 ---
 
-
 ###
 
 <div align="center">
@@ -31,39 +30,39 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<div id="dev-icons" align="center">
+  <img id="icon-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img id="icon-ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img id="icon-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img id="icon-html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img id="icon-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img id="icon-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img id="icon-angularjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img id="icon-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM252bHg3c2FwMW42bnJsZDZpcHg2OHMybDJsZm8weHgweHNnMTh4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
+<img id="gif-right" align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM252bHg3c2FwMW42bnJsZDZpcHg2OHMybDJsZm8weHgweHNnMTh4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <a href="https://www.youtube.com/@tutosrive" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+<div id="social-links" align="center">
+  <a id="yt-link" href="https://www.youtube.com/@tutosrive" target="_blank">
+    <img id="yt-img" src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/tutosrive/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a id="ig-link" href="https://www.instagram.com/tutosrive/" target="_blank">
+    <img id="ig-img" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://paypal.me/Santiago828572" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  <a id="paypal-link" href="https://paypal.me/Santiago828572" target="_blank">
+    <img id="paypal-img" src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
 </div>
 
@@ -73,24 +72,57 @@
 
 ###
 
-<picture>
+<picture id="pacman-graph">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tutosrive/tutosrive/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tutosrive/tutosrive/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tutosrive/tutosrive/output/pacman-contribution-graph.svg">
+  <img id="pacman-img" alt="pacman contribution graph" src="https://raw.githubusercontent.com/tutosrive/tutosrive/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tutosrive/count.svg?" />
+<div id="profile-counter" align="center">
+  <img id="counter-img" src="https://profile-counter.glitch.me/tutosrive/count.svg?" />
 </div>
 
 ###
 
-| project | command | downloads |
-| ------- | ------- | -------- |
-| [chromologger](https://github.com/tutosrive/chromologger) | `pip install chromologger` | <a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a> |
-| [chromolog](https://github.com/tutosrive/chromolog) | `pip install chromolog` | <a href="https://pepy.tech/projects/chromolog"><img src="https://static.pepy.tech/badge/chromolog" alt="PyPI Downloads"></a> |
-| [sqlazo](https://github.com/tutosrive/sqlazo) | `pip install sqlazo` | <a href="https://pepy.tech/projects/sqlazo"><img src="https://static.pepy.tech/badge/sqlazo" alt="PyPI Downloads"></a> |
-| [pdf2wordx](https://github.com/tutosrive/pdf2wordx) | `pip install pdf2wordx` | <a href="https://pepy.tech/projects/pdf2wordx"><img src="https://static.pepy.tech/badge/pdf2wordx" alt="PyPI Downloads"></a> |
-| [effect-srm](https://github.com/tutosrive/effect-screen-recorder-master) | `pip install effect-srm` | <a href="https://pepy.tech/projects/effect-srm"><img src="https://static.pepy.tech/badge/effect-srm" alt="PyPI Downloads"></a> |
+<!-- ID: (FEATURE) load it in a web... -->
+<table id="table-projects" style="width: 100%; text-align:center;" border>
+  <thead width="100vw">
+    <td>PROJECT</td>
+    <td>COMMAND</td>
+    <td>DOWNLOADS</td>
+  </thead>
+  <tbody>
+    <!-- chromologger -->
+    <tr id="chromologger-row">
+      <td><a href="https://github.com/tutosrive/chromologger">chromologger</a></td>
+      <td><code>pip install chromologger</code></td>
+      <td><a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a></td>
+    </tr>
+    <!-- chromolog -->
+    <tr id="chromolog-row">
+      <td><a href="https://github.com/tutosrive/chromolog">chromolog</a></td>
+      <td><code>pip install chromolog</code></td>
+      <td><a href="https://pepy.tech/projects/chromolog"><img src="https://static.pepy.tech/badge/chromolog" alt="PyPI Downloads"></a></td>
+    </tr>
+    <!-- sqlazo -->
+    <tr id="sqlazo-row">
+      <td><a href="https://github.com/tutosrive/sqlazo">sqlazo</a></td>
+      <td><code>pip install sqlazo</code></td>
+      <td><a href="https://pepy.tech/projects/sqlazo"><img src="https://static.pepy.tech/badge/sqlazo" alt="PyPI Downloads"></a></td>
+    </tr>
+    <!-- pdf2wordx -->
+    <tr id="pdf2wordx-row">
+      <td><a href="https://github.com/tutosrive/pdf2wordx">pdf2wordx</a></td>
+      <td><code>pip install pdf2wordx</code></td>
+      <td><a href="https://pepy.tech/projects/pdf2wordx"><img src="https://static.pepy.tech/badge/pdf2wordx" alt="PyPI Downloads"></a></td>
+    </tr>
+    <!-- effect-srm -->
+    <tr id="effect-srm-row">
+      <td><a href="https://github.com/tutosrive/effect-screen-recorder-master">effect-srm</a></td>
+      <td><code>pip install effect-srm</code></td>
+      <td><a href="https://pepy.tech/projects/effect-srm"><img src="https://static.pepy.tech/badge/effect-srm" alt="PyPI Downloads"></a></td>
+    </tr>
+  </tbody>
+</table>
