@@ -1,12 +1,12 @@
-<h2 align="center">Hi! i'm Santiago, and i ♥ writing code.</h2>
+<h2 align="center">Hello! i'm Santiago, and i enjoy writing code.</h2>
 
 # New project (a converter), coming soon...
 
-> Currently working on: <a href="https://www.dev2forge.software/">Dev2Forge <sub>org</sub></a>
+> Currently "working" on: <a href="https://www.dev2forge.software/">Dev2Forge <sub>org</sub></a>
 
 <div align="center">
   <a href="https://github.com/sponsors/tutosrive" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%96%20tutosrive-orange?style=for-the-badge&logo=github" alt="Sponsor me on GitHub">
+  <img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%B2%20tutosrive-blue?style=for-the-badge&logo=github" alt="Sponsor me on GitHub">
 </a>
   <a href="https://www.buymeacoffee.com/tutosrive">
     <img 
