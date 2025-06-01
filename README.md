@@ -126,3 +126,7 @@
     </tr>
   </tbody>
 </table>
+
+<div id="spotify-recently-played" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c32nlbglod6atf7gir36mguitm" alt="Spotify recently played" />
+</div>
