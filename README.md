@@ -129,6 +129,20 @@
   </table>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tutosrive&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
+</div>
+
+---
+
 <div id="spotify-recently-played" align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c32nlbglod6atf7gir36mguitm" alt="Spotify recently played" />
 </div>
