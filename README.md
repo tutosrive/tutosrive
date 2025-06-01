@@ -86,46 +86,48 @@
 
 ###
 
-<!-- ID: (FEATURE) load it in a web... -->
-<table id="table-projects" style="width: 100%; text-align:center;" border>
-  <thead width="100vw">
-    <td>PROJECT</td>
-    <td>COMMAND</td>
-    <td>DOWNLOADS</td>
-  </thead>
-  <tbody>
-    <!-- chromologger -->
-    <tr id="chromologger-row">
-      <td><a href="https://github.com/tutosrive/chromologger">chromologger</a></td>
-      <td><code>pip install chromologger</code></td>
-      <td><a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a></td>
-    </tr>
-    <!-- chromolog -->
-    <tr id="chromolog-row">
-      <td><a href="https://github.com/tutosrive/chromolog">chromolog</a></td>
-      <td><code>pip install chromolog</code></td>
-      <td><a href="https://pepy.tech/projects/chromolog"><img src="https://static.pepy.tech/badge/chromolog" alt="PyPI Downloads"></a></td>
-    </tr>
-    <!-- sqlazo -->
-    <tr id="sqlazo-row">
-      <td><a href="https://github.com/tutosrive/sqlazo">sqlazo</a></td>
-      <td><code>pip install sqlazo</code></td>
-      <td><a href="https://pepy.tech/projects/sqlazo"><img src="https://static.pepy.tech/badge/sqlazo" alt="PyPI Downloads"></a></td>
-    </tr>
-    <!-- pdf2wordx -->
-    <tr id="pdf2wordx-row">
-      <td><a href="https://github.com/tutosrive/pdf2wordx">pdf2wordx</a></td>
-      <td><code>pip install pdf2wordx</code></td>
-      <td><a href="https://pepy.tech/projects/pdf2wordx"><img src="https://static.pepy.tech/badge/pdf2wordx" alt="PyPI Downloads"></a></td>
-    </tr>
-    <!-- effect-srm -->
-    <tr id="effect-srm-row">
-      <td><a href="https://github.com/tutosrive/effect-screen-recorder-master">effect-srm</a></td>
-      <td><code>pip install effect-srm</code></td>
-      <td><a href="https://pepy.tech/projects/effect-srm"><img src="https://static.pepy.tech/badge/effect-srm" alt="PyPI Downloads"></a></td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <!-- ID: (FEATURE) load it in a web... -->
+  <table id="table-projects" style="width: 100%; text-align:center;" border>
+    <thead width="100vw">
+      <td>PROJECT</td>
+      <td>COMMAND</td>
+      <td>DOWNLOADS</td>
+    </thead>
+    <tbody>
+      <!-- chromologger -->
+      <tr id="chromologger-row">
+        <td><a href="https://github.com/tutosrive/chromologger">chromologger</a></td>
+        <td><code>pip install chromologger</code></td>
+        <td><a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a></td>
+      </tr>
+      <!-- chromolog -->
+      <tr id="chromolog-row">
+        <td><a href="https://github.com/tutosrive/chromolog">chromolog</a></td>
+        <td><code>pip install chromolog</code></td>
+        <td><a href="https://pepy.tech/projects/chromolog"><img src="https://static.pepy.tech/badge/chromolog" alt="PyPI Downloads"></a></td>
+      </tr>
+      <!-- sqlazo -->
+      <tr id="sqlazo-row">
+        <td><a href="https://github.com/tutosrive/sqlazo">sqlazo</a></td>
+        <td><code>pip install sqlazo</code></td>
+        <td><a href="https://pepy.tech/projects/sqlazo"><img src="https://static.pepy.tech/badge/sqlazo" alt="PyPI Downloads"></a></td>
+      </tr>
+      <!-- pdf2wordx -->
+      <tr id="pdf2wordx-row">
+        <td><a href="https://github.com/tutosrive/pdf2wordx">pdf2wordx</a></td>
+        <td><code>pip install pdf2wordx</code></td>
+        <td><a href="https://pepy.tech/projects/pdf2wordx"><img src="https://static.pepy.tech/badge/pdf2wordx" alt="PyPI Downloads"></a></td>
+      </tr>
+      <!-- effect-srm -->
+      <tr id="effect-srm-row">
+        <td><a href="https://github.com/tutosrive/effect-screen-recorder-master">effect-srm</a></td>
+        <td><code>pip install effect-srm</code></td>
+        <td><a href="https://pepy.tech/projects/effect-srm"><img src="https://static.pepy.tech/badge/effect-srm" alt="PyPI Downloads"></a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <div id="spotify-recently-played" align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c32nlbglod6atf7gir36mguitm" alt="Spotify recently played" />
