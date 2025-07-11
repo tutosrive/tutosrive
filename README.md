@@ -1,7 +1,5 @@
 <h2 align="center">Hello! i'm Santiago, and i enjoy writing code.</h2>
 
-# New project (a converter), coming soon...
-
 > Currently "working" on: <a href="https://www.dev2forge.software/">Dev2Forge <sub>org</sub></a>
 
 <div align="center">
@@ -14,6 +12,9 @@
 </div>
 
 ---
+
+> [!IMPORTANT]
+> New project, [Bridgex](https://github.com/Dev2Forge/bridgex), GUI program to convert a severity support files to **Markdown**. Using [Markitdown](https://github.com/microsoft/markitdown) and [Pyside6](https://doc.qt.io/qtforpython-6/)
 
 ###
 
@@ -39,8 +40,6 @@
   <img id="icon-css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img id="icon-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img id="icon-angularjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img id="icon-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
@@ -77,12 +76,6 @@
 
 ###
 
-<div id="profile-counter" align="center">
-  <img id="counter-img" src="https://profile-counter.glitch.me/tutosrive/count.svg?" />
-</div>
-
-###
-
 <div align="center">
   <!-- ID: (FEATURE) load it in a web... -->
   <table id="table-projects" style="width: 100%; text-align:center;" border>
@@ -92,33 +85,39 @@
       <td>DOWNLOADS</td>
     </thead>
     <tbody>
+      <!-- bridgex -->
+      <tr id="bridgex-row">
+        <td><a href="https://github.com/Dev2Forge/bridgex">bridgex</a></td>
+        <td><code>pip install bridgex</code></td>
+        <td><a href="https://pepy.tech/projects/bridgex"><img src="https://static.pepy.tech/badge/bridgex" alt="PyPI Downloads"></a></td>
+      </tr>
       <!-- chromologger -->
       <tr id="chromologger-row">
-        <td><a href="https://github.com/tutosrive/chromologger">chromologger</a></td>
+        <td><a href="https://github.com/Dev2Forge/chromologger">chromologger</a></td>
         <td><code>pip install chromologger</code></td>
         <td><a href="https://pepy.tech/projects/chromologger"><img src="https://static.pepy.tech/badge/chromologger" alt="PyPI Downloads"></a></td>
       </tr>
       <!-- chromolog -->
       <tr id="chromolog-row">
-        <td><a href="https://github.com/tutosrive/chromolog">chromolog</a></td>
+        <td><a href="https://github.com/Dev2Forge/chromolog">chromolog</a></td>
         <td><code>pip install chromolog</code></td>
         <td><a href="https://pepy.tech/projects/chromolog"><img src="https://static.pepy.tech/badge/chromolog" alt="PyPI Downloads"></a></td>
       </tr>
       <!-- sqlazo -->
       <tr id="sqlazo-row">
-        <td><a href="https://github.com/tutosrive/sqlazo">sqlazo</a></td>
+        <td><a href="https://github.com/Dev2Forge/sqlazo">sqlazo</a></td>
         <td><code>pip install sqlazo</code></td>
         <td><a href="https://pepy.tech/projects/sqlazo"><img src="https://static.pepy.tech/badge/sqlazo" alt="PyPI Downloads"></a></td>
       </tr>
       <!-- pdf2wordx -->
       <tr id="pdf2wordx-row">
-        <td><a href="https://github.com/tutosrive/pdf2wordx">pdf2wordx</a></td>
+        <td><a href="https://github.com/Dev2Forge/pdf2wordx">pdf2wordx</a></td>
         <td><code>pip install pdf2wordx</code></td>
         <td><a href="https://pepy.tech/projects/pdf2wordx"><img src="https://static.pepy.tech/badge/pdf2wordx" alt="PyPI Downloads"></a></td>
       </tr>
       <!-- effect-srm -->
       <tr id="effect-srm-row">
-        <td><a href="https://github.com/tutosrive/effect-screen-recorder-master">effect-srm</a></td>
+        <td><a href="https://github.com/Dev2Forge/e-srm">effect-srm</a></td>
         <td><code>pip install effect-srm</code></td>
         <td><a href="https://pepy.tech/projects/effect-srm"><img src="https://static.pepy.tech/badge/effect-srm" alt="PyPI Downloads"></a></td>
       </tr>
