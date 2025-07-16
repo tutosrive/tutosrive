@@ -1,8 +1,7 @@
-<h2 align="center">Hello! i'm Santiago, and i enjoy writing code.</h2>
-
-> Currently "working" on: <a href="https://www.dev2forge.software/">Dev2Forge <sub>org</sub></a>
+<h2 align="center">Hello! i'm Santiago, and i enjoy writing code. <sub><small><a href="https://www.dev2forge.software/">Dev2Forge <sub>org</sub></a></small></sub></h2>
 
 <div align="center">
+  <a href="https://wakatime.com/@af6e3d3d-e2b5-480d-a492-1fbd9614f9c5"><img src="https://wakatime.com/badge/user/af6e3d3d-e2b5-480d-a492-1fbd9614f9c5.svg?style=for-the-badge" alt="Total time coded since Jun 24 2025" /></a>
   <a href="https://github.com/sponsors/tutosrive" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%B2%20tutosrive-blue?style=for-the-badge&logo=github" alt="Sponsor me on GitHub">
 </a>
@@ -15,6 +14,20 @@
 
 > [!IMPORTANT]
 > New project, [Bridgex](https://github.com/Dev2Forge/bridgex), GUI program to convert a severity support files to **Markdown**. Using [Markitdown](https://github.com/microsoft/markitdown) and [Pyside6](https://doc.qt.io/qtforpython-6/)
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center"><img width="150" src="https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/bridgex-v0.1.0.webp"></td>
+      <td width="200" align="center"><code>pip install bridgex</code><a href="https://pepy.tech/projects/bridgex"><hr><img src="https://static.pepy.tech/badge/bridgex" alt="PyPI Downloads"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Bridgex is an open-source graphical interface for converting files to Markdown, built in Python and based on <a href="https://doc.qt.io/qtforpython-6/" target="_blank">Pyside6 (Qt for Python)</a>. Its objective is to simplify access to the <a href="https://github.com/microsoft/markitdown" target="_blank">Markitdown</a> library through a straightforward, modular visual experience.</p>
+
+---
 
 ###
 
