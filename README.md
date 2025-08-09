@@ -13,19 +13,7 @@
 ---
 
 > [!IMPORTANT]
-> New project, [Bridgex](https://github.com/Dev2Forge/bridgex), GUI program to convert a severity support files to **Markdown**. Using [Markitdown](https://github.com/microsoft/markitdown) and [Pyside6](https://doc.qt.io/qtforpython-6/)
-
-<table align="center">
-  <tbody>
-    <tr>
-      <td align="center"><img width="150" src="https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/bridgex-v0.1.0.webp"></td>
-      <td width="200" align="center"><code>pip install bridgex</code><a href="https://pepy.tech/projects/bridgex"><hr><img src="https://static.pepy.tech/badge/bridgex" alt="PyPI Downloads"></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<p>Bridgex is an open-source graphical interface for converting files to Markdown, built in Python and based on <a href="https://doc.qt.io/qtforpython-6/" target="_blank">Pyside6 (Qt for Python)</a>. Its objective is to simplify access to the <a href="https://github.com/microsoft/markitdown" target="_blank">Markitdown</a> library through a straightforward, modular visual experience.</p>
+> New project is coming Soon. To automate a process that I want to avoid on a daily basis
 
 ---
 
