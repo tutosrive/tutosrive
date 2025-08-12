@@ -1,5 +1,7 @@
 <h2 align="center">Hello! i'm Santiago, and i enjoy writing code. <sub><small><a href="https://www.dev2forge.software/">Dev2Forge <sub>org</sub></a></small></sub></h2>
 
+> Play: [NBAI](https://tutosrive.github.io/nb_ai) The Naval Battle With AI
+
 <div align="center">
   <a href="https://wakatime.com/@af6e3d3d-e2b5-480d-a492-1fbd9614f9c5"><img src="https://wakatime.com/badge/user/af6e3d3d-e2b5-480d-a492-1fbd9614f9c5.svg?style=for-the-badge" alt="Total time coded since Jun 24 2025" /></a>
   <a href="https://github.com/sponsors/tutosrive" target="_blank">
