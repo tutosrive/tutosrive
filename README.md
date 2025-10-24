@@ -1,7 +1,5 @@
 <h2 align="center">Hello! i'm Santiago, and i enjoy writing code. <sub><small><a href="https://www.dev2forge.software/">Dev2Forge <sub>org</sub></a></small></sub></h2>
 
-> Play: [NBAI](https://tutosrive.github.io/nb_ai) The Naval Battle With AI
-
 <div align="center">
   <a href="https://wakatime.com/@af6e3d3d-e2b5-480d-a492-1fbd9614f9c5"><img src="https://wakatime.com/badge/user/af6e3d3d-e2b5-480d-a492-1fbd9614f9c5.svg?style=for-the-badge" alt="Total time coded since Jun 24 2025" /></a>
   <a href="https://github.com/sponsors/tutosrive" target="_blank">
@@ -18,6 +16,12 @@
 > Automatic create, install requirements and activate venv only with one command: [`InitVenv`](https://github.com/Dev2Forge/Init-Venv)
 >
 > <a href="https://github.com/Dev2Forge/Init-Venv"><img width="92" height="92" alt="InitVenv-logo" src="https://github.com/user-attachments/assets/ba2d58d0-75bc-4d7d-9a13-9969d7de3993" /></a>
+
+---
+
+> Play: [NBAI](https://tutosrive.github.io/nb_ai) The Naval Battle With AI
+> 
+> <a href="https://tutosrive.github.io/nb_ai"><img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/bd290a7d-f218-4334-a344-9ab951dce374" /></a>
 
 ---
 
