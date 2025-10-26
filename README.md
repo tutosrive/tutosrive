@@ -13,6 +13,11 @@
 ---
 
 > [!IMPORTANT]
+> `pip install initvenv` is coming soon.
+
+---
+
+> [!IMPORTANT]
 > Automatic create, install requirements and activate venv only with one command: [`InitVenv`](https://github.com/Dev2Forge/Init-Venv)
 >
 > <a href="https://github.com/Dev2Forge/Init-Venv"><img width="92" height="92" alt="InitVenv-logo" src="https://github.com/user-attachments/assets/ba2d58d0-75bc-4d7d-9a13-9969d7de3993" /></a>
