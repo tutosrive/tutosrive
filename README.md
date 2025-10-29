@@ -13,7 +13,7 @@
 ---
 
 > [!IMPORTANT]
-> `pip install initvenv` is coming soon.
+> ## `pip install initvenv`
 
 ---
 
