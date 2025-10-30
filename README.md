@@ -13,7 +13,8 @@
 ---
 
 > [!IMPORTANT]
-> ## `pip install initvenv`
+> Https://dev2forge.software/initvenv/
+> # `pip install initvenv`
 
 ---
 
@@ -98,41 +99,47 @@
       <td>DOWNLOADS</td>
     </thead>
     <tbody>
+<!-- initvenv -->
+      <tr id="initvenv-row">
+        <td><a href="https://github.com/Dev2Forge/initvenv">initvenv</a></td>
+        <td><code>pip install initvenv</code></td>
+        <td><a href="https://pepy.tech/projects/initvenv"><img src="https://img.shields.io/pypi/dt/initvenv?color=blue" alt="PyPI Downloads"></a></td>
+      </tr>
       <!-- bridgex -->
       <tr id="bridgex-row">
         <td><a href="https://github.com/Dev2Forge/bridgex">bridgex</a></td>
         <td><code>pip install bridgex</code></td>
-        <td><a href="https://pepy.tech/projects/bridgex"><img src="https://img.shields.io/pypi/dm/bridgex?color=blue" alt="PyPI Downloads"></a></td>
+        <td><a href="https://pepy.tech/projects/bridgex"><img src="https://img.shields.io/pypi/dt/bridgex?color=blue" alt="PyPI Downloads"></a></td>
       </tr>
       <!-- chromologger -->
       <tr id="chromologger-row">
         <td><a href="https://github.com/Dev2Forge/chromologger">chromologger</a></td>
         <td><code>pip install chromologger</code></td>
-        <td><a href="https://pepy.tech/projects/chromologger"><img src="https://img.shields.io/pypi/dm/chromologger?color=blue" alt="PyPI Downloads"></a></td>
+        <td><a href="https://pepy.tech/projects/chromologger"><img src="https://img.shields.io/pypi/dt/chromologger?color=blue" alt="PyPI Downloads"></a></td>
       </tr>
       <!-- chromolog -->
       <tr id="chromolog-row">
         <td><a href="https://github.com/Dev2Forge/chromolog">chromolog</a></td>
         <td><code>pip install chromolog</code></td>
-        <td><a href="https://pepy.tech/projects/chromolog"><img src="https://img.shields.io/pypi/dm/chromolog?color=blue" alt="PyPI Downloads"></a></td>
+        <td><a href="https://pepy.tech/projects/chromolog"><img src="https://img.shields.io/pypi/dt/chromolog?color=blue" alt="PyPI Downloads"></a></td>
       </tr>
       <!-- sqlazo -->
       <tr id="sqlazo-row">
         <td><a href="https://github.com/Dev2Forge/sqlazo">sqlazo</a></td>
         <td><code>pip install sqlazo</code></td>
-        <td><a href="https://pepy.tech/projects/sqlazo"><img src="https://img.shields.io/pypi/dm/sqlazo?color=blue" alt="PyPI Downloads"></a></td>
+        <td><a href="https://pepy.tech/projects/sqlazo"><img src="https://img.shields.io/pypi/dt/sqlazo?color=blue" alt="PyPI Downloads"></a></td>
       </tr>
       <!-- pdf2wordx -->
       <tr id="pdf2wordx-row">
         <td><a href="https://github.com/Dev2Forge/pdf2wordx">pdf2wordx</a></td>
         <td><code>pip install pdf2wordx</code></td>
-        <td><a href="https://pepy.tech/projects/pdf2wordx"><img src="https://img.shields.io/pypi/dm/pdf2wordx?color=blue" alt="PyPI Downloads"></a></td>
+        <td><a href="https://pepy.tech/projects/pdf2wordx"><img src="https://img.shields.io/pypi/dt/pdf2wordx?color=blue" alt="PyPI Downloads"></a></td>
       </tr>
       <!-- effect-srm -->
       <tr id="effect-srm-row">
         <td><a href="https://github.com/Dev2Forge/e-srm">effect-srm</a></td>
         <td><code>pip install effect-srm</code></td>
-        <td><a href="https://pepy.tech/projects/effect-srm"><img src="https://img.shields.io/pypi/dm/effect-srm?color=blue" alt="PyPI Downloads"></a></td>
+        <td><a href="https://pepy.tech/projects/effect-srm"><img src="https://img.shields.io/pypi/dt/effect-srm?color=blue" alt="PyPI Downloads"></a></td>
       </tr>
     </tbody>
   </table>
