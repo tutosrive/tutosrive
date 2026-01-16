@@ -13,10 +13,9 @@
 ---
 
 > [!IMPORTANT]
+> Run quick tests and JavaScript code in a secluded, fast, and simple environment, free from distractions.
 
-Run quick tests and JavaScript code in a secluded, fast, and simple environment, free from distractions.
-
-<a href="https://dev2forge.is-a.software/eval"><omg arc="https://dev2forge.is-a.software/eval/assets/images/png/preview.png"></a>
+<a href="https://dev2forge.is-a.software/eval"><img src="https://dev2forge.is-a.software/eval/assets/images/png/preview.png"></a>
 
 ---
 
