@@ -15,7 +15,7 @@
 > [!IMPORTANT]
 > Run quick tests and JavaScript code in a secluded, fast, and simple environment, free from distractions.
 
-<a href="https://dev2forge.is-a.software/eval"><img src="https://dev2forge.is-a.software/eval/src/assets/images/png/preview.png"></a>
+<a href="https://eval.is-a.software"><img src="https://eval.is-a.software/src/assets/images/png/preview.png"></a>
 
 ---
 
