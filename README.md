@@ -5,7 +5,7 @@
   <a href="https://github.com/sponsors/tutosrive" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%B2%20tutosrive-blue?style=for-the-badge&logo=github" alt="Sponsor me on GitHub">
 </a>
- <a href="https://www.buymeacoffee.com/tutosrive" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+ <a href="https://www.buymeacoffee.com/tutosrive" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 30px !important;" ></a>
 </div>
 
 ---
