@@ -10,31 +10,13 @@
 
 ---
 
-> [!IMPORTANT]
-> Run quick tests and JavaScript code in a secluded, fast, and simple environment, free from distractions.
-
-<a href="https://eval.is-a.software"><img src="https://eval.is-a.software/src/assets/images/png/preview.png"></a>
-
----
-
-> [!IMPORTANT]
-> Https://dev2forge.software/initvenv/
->
-> <a href="https://tutosrive.itch.io/initvenv/purchase?popup=1"><img width="200" alt="image" src="https://github.com/user-attachments/assets/6c55bd2f-05f6-419e-9911-b1152f69b1c5" /></a>
-
-
----
+<a href="http://tutosrive.is-a.dev/stargazer/"><img src="http://tutosrive.is-a.dev/stargazer/assets/preview.png"/></a>
+> Image created with Google Gemini
 
 > [!IMPORTANT]
 > Automatic create, install requirements and activate venv only with one command: [`InitVenv`](https://github.com/Dev2Forge/Init-Venv)
 >
 > <a href="https://github.com/Dev2Forge/Init-Venv"><img width="92" height="92" alt="InitVenv-logo" src="https://github.com/user-attachments/assets/ba2d58d0-75bc-4d7d-9a13-9969d7de3993" /></a>
-
----
-
-> Play: [NBAI](https://tutosrive.github.io/nb_ai) The Naval Battle With AI
-> 
-> <a href="https://tutosrive.github.io/nb_ai"><img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/bd290a7d-f218-4334-a344-9ab951dce374" /></a>
 
 ---
 
@@ -71,22 +53,11 @@
   <a id="ig-link" href="https://www.instagram.com/tutosrive/" target="_blank">
     <img id="ig-img" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a id="paypal-link" href="https://paypal.me/Santiago828572" target="_blank">
-    <img id="paypal-img" src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  </a>
 </div>
 
 ###
 
 <br clear="both" />
-
-###
-
-<picture id="pacman-graph">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tutosrive/tutosrive/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tutosrive/tutosrive/output/pacman-contribution-graph.svg">
-  <img id="pacman-img" alt="pacman contribution graph" src="https://raw.githubusercontent.com/tutosrive/tutosrive/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
