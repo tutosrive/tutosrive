@@ -77,8 +77,8 @@
 
 | Link | Preview |
 | --- | ---- |
-| https://t.me/opslts | <img height="200" alt="image" src="https://github.com/user-attachments/assets/f4708677-d2eb-4e44-8a97-eb5bb03dde12" /> |
-| <a href="http://tutosrive.is-a.dev/stargazer/">All mi GitHub Stars</a> | <img height="200" src="http://tutosrive.is-a.dev/stargazer/assets/preview.png"/> |
-| <a href="https://github.com/Dev2Forge/Init-Venv">Init Venv</a> | <img height="200" alt="InitVenv-logo" src="https://github.com/user-attachments/assets/ba2d58d0-75bc-4d7d-9a13-9969d7de3993" /> |
+| https://t.me/opslts | <img height="200px" alt="image" src="https://github.com/user-attachments/assets/f4708677-d2eb-4e44-8a97-eb5bb03dde12" /> |
+| <a href="http://tutosrive.is-a.dev/stargazer/">All mi GitHub Stars</a> | <img height="200px" src="http://tutosrive.is-a.dev/stargazer/assets/preview.png"/> |
+| <a href="https://github.com/Dev2Forge/Init-Venv">Init Venv</a> | <img height="200px" alt="InitVenv-logo" src="https://github.com/user-attachments/assets/ba2d58d0-75bc-4d7d-9a13-9969d7de3993" /> |
 
 </div>
