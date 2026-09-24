@@ -7,6 +7,9 @@
 </a><a href="https://www.buymeacoffee.com/tutosrive" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 30px; max-height: 30px !important;"></a>
 </div>
 
+<div align="center"><a href="https://openastral.pages.dev?ref=github.com/tutosrive/README.md"><img height="300px" alt="Open Astral Page Preview" src="https://github.com/user-attachments/assets/d2cd968d-e18d-4e4d-8ab6-ff5b8e07e2a2" /></a></div>
+
+
 ---
 
 # 💫 About Me:
