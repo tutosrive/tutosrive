@@ -42,7 +42,7 @@
 <div align="center">
 <img src="https://wakatime.com/share/@tutosrive/9e664555-8bdd-4cc5-b06b-1a4bb0999675.svg" width="400px"/>
 <img src="https://wakatime.com/share/@tutosrive/9dbcd5f9-2c81-4492-bd28-2455a5a35fb1.svg" width="400px"/>
-<img src="https://wakatime.com/share/@tutosrive/5eeefa62-e4a7-4d45-b304-11cdaac66ea0.svg"/><br/>
+<img src="https://wakatime.com/share/@tutosrive/5eeefa62-e4a7-4d45-b304-11cdaac66ea0.svg" width="100%"/>
 <img src="https://wakatime.com/share/@tutosrive/7b8b0d24-3794-4322-a941-1800ae76ab93.svg" width="400px"/>
 <img src="https://wakatime.com/share/@tutosrive/4e7b5063-f22c-4ba4-9b09-22f4b0f504b6.svg" width="400px"/>
   
