@@ -13,7 +13,7 @@
 ---
 
 # 💫 About Me:
-- 🔭 I’m currently working on ["Why Sudo?"](https://github.com/tutosrive/whysudo) (Personal Project)
+- 🔭 I’m currently working on ["Why Sudo?"](https://play.google.com/store/apps/details?id=com.srm.whysudo.pro) (Visible for you in 14 days ...)
 - 🌱 I’m currently learning Kotlin for Android
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/tutosrive?tab=repositories)
 - 📝 I regularly write articles on [buymeacoffee](https://buymeacoffee.com/tutosrive/posts)
